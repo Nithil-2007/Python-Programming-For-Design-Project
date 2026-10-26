@@ -1,3 +1,16 @@
+"""
+Tic-Tac-Toe: Player vs. Computer (Tkinter GUI)
+-----------------------------------------------
+A graphical Tic-Tac-Toe game created with Python and Tkinter.
+Features:
+- Play as X, O, or let the game choose randomly.
+- Smart AI computer opponent with blocking and winning strategies.
+- Visual highlight for winning combination and clean modern interface.
+
+How to Run:
+    python main.py   (or: py main.py)
+"""
+
 import tkinter as tk
 from tkinter import messagebox
 import random
